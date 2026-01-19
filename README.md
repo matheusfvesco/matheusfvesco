@@ -1,12 +1,7 @@
 <p align="center">
 <a href="https://github.com/matheusfvesco">
- <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=1000&pause=1000&color=0A66C2&center=true&multiline=true&width=500&height=91&lines=Matheus+F+Vesco;AI+Researcher+%40+FICSAE;Computer+Vision+%7C+GenAI+%7C+Deep+Learning" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=1000&pause=1000&color=0A66C2&center=true&multiline=true&width=700&height=140&lines=Matheus+F+Vesco;Big+Data+%7C+ML+%7C+DL+%7C+PyTorch+%7C+Spark;Data+Scientist+%40+Instituto+Todos+pela+Sa%C3%BAde+%28ITpS%29;Masters+student+%40+FICSAE" alt="Typing SVG" />
 </a>
-<!---
-[[<a href="https://github.com/matheusfvesco">
-  <img src="https://readme-typing-svg.demolab.com?font=Heebo&duration=1500&pause=1500&color=FFFFFF&center=true&multiline=true&width=435&height=85&lines=Matheus+Farinaro+Vesco;Rad+Tech+student+at+%40unifesp;Data+Science+%7C+Python+%7C+Machine+Learning" alt="Typing SVG" />
-</a>](https://readme-typing-svg.demolab.com/demo/?font=Roboto+Mono&duration=1000&color=0285B9&center=true&multiline=true&width=500&height=91&lines=Matheus+F+Vesco;AI+Researcher+%40+FICSAE;Computer+Vision+%7C+GenAI+%7C+Deep+Learning)](https://readme-typing-svg.demolab.com/demo/?font=Roboto+Mono&duration=1000&color=0A66C2&center=true&multiline=true&width=500&height=91&lines=Matheus+F+Vesco;AI+Researcher+%40+FICSAE;Computer+Vision+%7C+GenAI+%7C+Deep+Learning)
---->
 
 ---
 
@@ -24,50 +19,48 @@
 
 <div>
   <h4>Technologies and Tools:</h4>
+  <a href="https://spark.apache.org/">
+            <img alt="Apache Spark URL" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C?labelColor=E25A1C&style=flat-square&logo=apache-spark&logoColor=%23ffffff" height="27">
+  </a>
+  <a href="https://cloud.google.com/">
+        <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?labelColor=4285F4&style=flat-square&logo=googlecloud&logoColor=%23ffffff" height="27">
+  </a>
+  <a href="https://github.com/matheusfvesco">
+        <img alt="Postgresql URL" src="https://img.shields.io/badge/PostgreSQL-%23336791?labelColor=336791&style=flat-square&logo=postgresql&logoColor=%23ffffff" height="27">
+  </a>
   <a href="https://github.com/matheusfvesco">
         <img alt="Python URL" src="https://img.shields.io/badge/Python-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=python&logoColor=%233777ab" height="27">
+  </a>
+  <a href="https://pandas.pydata.org/">
+        <img alt="Pandas URL" src="https://img.shields.io/badge/Pandas-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=pandas&logoColor=%23ffffff" height="27">
+  </a>
+  <a href="https://github.com/pola-rs/polars">
+        <img alt="Polars URL" src="https://img.shields.io/badge/Polars-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=polars&logoColor=%230075ff" height="27">
   </a>
   <a href="https://pytorch.org/">
         <img alt="Pytorch URL" src="https://img.shields.io/badge/Pytorch-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=pytorch&logoColor=%23ee4c2c" height="27">
   </a>
-  <!---
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Tensorflow URL" src="https://img.shields.io/badge/Tensorflow-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=tensorflow&logoColor=%23FFA800" height="27">
-  </a>
   <a href="https://github.com/matheusfvesco">
         <img alt="Scikit Learn URL" src="https://img.shields.io/badge/scikit%20learn-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=scikitlearn&logoColor=%23ffffff" height="27">
   </a>
-  --->
-  <a href="https://opencv.org/">
-        <img alt="Opencv URL" src="https://img.shields.io/badge/OpenCV-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=opencv&logoColor=%23ffffff" height="27">
-  </a>
-  <!---
-  <a href="https://www.djangoproject.com/">
-        <img alt="Django URL" src="https://img.shields.io/badge/Django-%23103e2e?labelColor=103e2e&style=flat-square&logo=django&logoColor=%23ffffff" height="27">
-  </a>
-  --->
   <a href="https://fastapi.tiangolo.com/">
         <img alt="Fastapi URL" src="https://img.shields.io/badge/FastAPI-%23019587?labelColor=019587&style=flat-square&logo=fastapi&logoColor=%23ffffff" height="27">
   </a>
-  
   <a href="https://www.docker.com/">
         <img alt="Docker URL" src="https://img.shields.io/badge/Docker-%232496ed?labelColor=2496ed&style=flat-square&logo=docker&logoColor=%23ffffff" height="27">
+  </a>
+  <a href="https://ollama.ai/">
+        <img alt="LLMs" src="https://img.shields.io/badge/LLMs-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=googlegemini&logoColor=%23ffffff" height="27">
   </a>
   <a href="https://github.com/matheusfvesco">
         <img alt="Git URL" src="https://img.shields.io/badge/Git-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=git&logoColor=%23f34f29" height="27">
   </a>
-  
   <a href="https://github.com/matheusfvesco">
         <img alt="Linux URL" src="https://img.shields.io/badge/Linux-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=linux&logoColor=%23ffffff" height="27">
   </a>
   <a href="https://github.com/matheusfvesco">
         <img alt="Bash URL" src="https://img.shields.io/badge/Bash-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=gnubash&logoColor=%23ffffff" height="27">
   </a>
-  <!---
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Postgresql URL" src="https://img.shields.io/badge/PostgreSQL-%23336791?labelColor=336791&style=flat-square&logo=postgresql&logoColor=%23ffffff" height="27">
-  </a>
-  --->
   <a href="https://www.arduino.cc/">
         <img alt="Arduino URL" src="https://img.shields.io/badge/Arduino-%2300979d?labelColor=00979d&style=flat-square&logo=arduino&logoColor=%23ffffff" height="27">
   </a>
@@ -76,13 +69,20 @@
 
 ---
 
+
 <div>
-  <h4>About me:</h4>
+      <h4>About me:</h4>
 </div>
 
-- 👋 Hi, I’m Matheus, A.K.A. [@matheusfvesco](https://www.github.com/matheusfvesco)! I am a Master of Science student with a passion for technology. I have been programming in Python since 2019 and I am currently a researcher at the [Computational Systems Biology Laboratory](https://www.csbiology.org/), where I develop computer vision pipelines and generative AI applications.
-- 👀 I’m interested in Generative AI, AI for Social Good, Computer Vision, Computer Graphics, Machine Learning, Deep Learning and Data Science. Mostly, i really love to test out new models and new technology!
-- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/matheusfvesco/) or check out my [Kaggle Profile](https://www.kaggle.com/matheusfvesco) to see some of my work!
+- 👋 Hi — I’m Matheus Farinaro Vesco. I work as a Data Scientist at Instituto Todos pela Saúde (ITpS) and I am a Master's student at Faculdade Israelita de Ciências da Saúde Albert Einstein (FICSAE). I'm also a member of the Computational Systems Biology Laboratory (CSBL-BR).
+- What I do:
+  - Data Analysis & Modeling — developing statistical models and machine-learning solutions to inform decisions and product metrics.
+  - Applied Data Engineering — building scalable ETL/ELT pipelines with Python and advanced SQL for robust data transformation and quality assurance.
+  - Model Operationalization — deploying predictive models and metrics into production via RESTful APIs (FastAPI/Flask) with OpenAPI/Swagger documentation.
+  - Cross-functional Collaboration — integrating data services with back-end/front-end systems and maintaining technical documentation for reproducible workflows.
+  - LLM Implementation — engineering language-model pipelines for automated data parsing, information extraction, and advanced text-processing services.
+- Core skills: Python, PyTorch, Spark, SQL, FastAPI, Docker, ETL/ELT, Machine Learning, Deep Learning, LLMs, Data Visualization, Statistics.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/matheusfvesco/) or view projects on [Kaggle](https://www.kaggle.com/matheusfvesco).
 
 ---
 
