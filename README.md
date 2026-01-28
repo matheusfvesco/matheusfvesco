@@ -7,64 +7,29 @@
 
 <div>
   <h4>Social Media:</h4>
-  <a href="https://www.linkedin.com/in/matheusfvesco">
-        <img alt="LinkedIn URL" src="https://img.shields.io/badge/LinkedIn-%230a66c2?labelColor=0a66c2&style=flat-square&logo=linkedin&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://www.kaggle.com/matheusfvesco">
-        <img alt="Kaggle URL" src="https://img.shields.io/badge/Kaggle-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=kaggle&logoColor=%232bbdfa" height="27">
-  </a>
+  <a href="https://www.linkedin.com/in/matheusfvesco" style="text-decoration: none;"><img alt="LinkedIn URL" src="https://img.shields.io/badge/LinkedIn-%230a66c2?labelColor=0a66c2&style=flat-square&logo=linkedin&logoColor=%23ffffff" height="27"></a>
+  <a href="https://www.kaggle.com/matheusfvesco" style="text-decoration: none;"><img alt="Kaggle URL" src="https://img.shields.io/badge/Kaggle-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=kaggle&logoColor=%232bbdfa" height="27"></a>
 </div>
 
 ---
 
 <div>
   <h4>Technologies and Tools:</h4>
-  <a href="https://spark.apache.org/">
-            <img alt="Apache Spark URL" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C?labelColor=E25A1C&style=flat-square&logo=apache-spark&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://cloud.google.com/">
-        <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?labelColor=4285F4&style=flat-square&logo=googlecloud&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Postgresql URL" src="https://img.shields.io/badge/PostgreSQL-%23336791?labelColor=336791&style=flat-square&logo=postgresql&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Python URL" src="https://img.shields.io/badge/Python-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=python&logoColor=%233777ab" height="27">
-  </a>
-  <a href="https://pandas.pydata.org/">
-        <img alt="Pandas URL" src="https://img.shields.io/badge/Pandas-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=pandas&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://github.com/pola-rs/polars">
-        <img alt="Polars URL" src="https://img.shields.io/badge/Polars-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=polars&logoColor=%230075ff" height="27">
-  </a>
-  <a href="https://pytorch.org/">
-        <img alt="Pytorch URL" src="https://img.shields.io/badge/Pytorch-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=pytorch&logoColor=%23ee4c2c" height="27">
-  </a>
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Scikit Learn URL" src="https://img.shields.io/badge/scikit%20learn-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=scikitlearn&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
-        <img alt="Fastapi URL" src="https://img.shields.io/badge/FastAPI-%23019587?labelColor=019587&style=flat-square&logo=fastapi&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://www.docker.com/">
-        <img alt="Docker URL" src="https://img.shields.io/badge/Docker-%232496ed?labelColor=2496ed&style=flat-square&logo=docker&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://ollama.ai/">
-        <img alt="LLMs" src="https://img.shields.io/badge/LLMs-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=googlegemini&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Git URL" src="https://img.shields.io/badge/Git-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=git&logoColor=%23f34f29" height="27">
-  </a>
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Linux URL" src="https://img.shields.io/badge/Linux-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=linux&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://github.com/matheusfvesco">
-        <img alt="Bash URL" src="https://img.shields.io/badge/Bash-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=gnubash&logoColor=%23ffffff" height="27">
-  </a>
-  <a href="https://www.arduino.cc/">
-        <img alt="Arduino URL" src="https://img.shields.io/badge/Arduino-%2300979d?labelColor=00979d&style=flat-square&logo=arduino&logoColor=%23ffffff" height="27">
-  </a>
-
+  <a href="https://spark.apache.org/" style="text-decoration: none;"><img alt="Apache Spark URL" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C?labelColor=E25A1C&style=flat-square&logo=apache-spark&logoColor=%23ffffff" height="27"></a>
+  <a href="https://cloud.google.com/" style="text-decoration: none;"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?labelColor=4285F4&style=flat-square&logo=googlecloud&logoColor=%23ffffff" height="27"></a>
+  <a href="https://github.com/matheusfvesco" style="text-decoration: none;"><img alt="Postgresql URL" src="https://img.shields.io/badge/PostgreSQL-%23336791?labelColor=336791&style=flat-square&logo=postgresql&logoColor=%23ffffff" height="27"></a>
+  <a href="https://github.com/matheusfvesco" style="text-decoration: none;"><img alt="Python URL" src="https://img.shields.io/badge/Python-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=python&logoColor=%233777ab" height="27"></a>
+  <a href="https://pandas.pydata.org/" style="text-decoration: none;"><img alt="Pandas URL" src="https://img.shields.io/badge/Pandas-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=pandas&logoColor=%23ffffff" height="27"></a>
+  <a href="https://github.com/pola-rs/polars" style="text-decoration: none;"><img alt="Polars URL" src="https://img.shields.io/badge/Polars-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=polars&logoColor=%230075ff" height="27"></a>
+  <a href="https://pytorch.org/" style="text-decoration: none;"><img alt="Pytorch URL" src="https://img.shields.io/badge/Pytorch-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=pytorch&logoColor=%23ee4c2c" height="27"></a>
+  <a href="https://github.com/matheusfvesco" style="text-decoration: none;"><img alt="Scikit Learn URL" src="https://img.shields.io/badge/scikit%20learn-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=scikitlearn&logoColor=%23ffffff" height="27"></a>
+  <a href="https://fastapi.tiangolo.com/" style="text-decoration: none;"><img alt="Fastapi URL" src="https://img.shields.io/badge/FastAPI-%23019587?labelColor=019587&style=flat-square&logo=fastapi&logoColor=%23ffffff" height="27"></a>
+  <a href="https://www.docker.com/" style="text-decoration: none;"><img alt="Docker URL" src="https://img.shields.io/badge/Docker-%232496ed?labelColor=2496ed&style=flat-square&logo=docker&logoColor=%23ffffff" height="27"></a>
+  <a href="https://ollama.ai/" style="text-decoration: none;"><img alt="LLMs" src="https://img.shields.io/badge/LLMs-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=googlegemini&logoColor=%23ffffff" height="27"></a>
+  <a href="https://github.com/matheusfvesco" style="text-decoration: none;"><img alt="Git URL" src="https://img.shields.io/badge/Git-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=git&logoColor=%23f34f29" height="27"></a>
+  <a href="https://github.com/matheusfvesco" style="text-decoration: none;"><img alt="Linux URL" src="https://img.shields.io/badge/Linux-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=linux&logoColor=%23ffffff" height="27"></a>
+  <a href="https://github.com/matheusfvesco" style="text-decoration: none;"><img alt="Bash URL" src="https://img.shields.io/badge/Bash-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=gnubash&logoColor=%23ffffff" height="27"></a>
+  <a href="https://www.arduino.cc/" style="text-decoration: none;"><img alt="Arduino URL" src="https://img.shields.io/badge/Arduino-%2300979d?labelColor=00979d&style=flat-square&logo=arduino&logoColor=%23ffffff" height="27"></a>
 </div>
 
 ---
@@ -88,10 +53,6 @@
 
 <div>
   <h4>CVs and IDs:</h4>
-  <a href="https://orcid.org/0000-0002-4107-1281">
-        <img alt="Orcid URL" src="https://img.shields.io/badge/Orcid-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=orcid&logoColor=%23A6CE39" height="27">
-  </a>
-  <a href="https://www.researchgate.net/profile/Matheus-Farinaro-Vesco">
-        <img alt="Researchgate URL" src="https://img.shields.io/badge/ResearchGate-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=researchgate&logoColor=%2300CCBB" height="27">
-  </a>
+  <a href="https://orcid.org/0000-0002-4107-1281" style="text-decoration: none;"><img alt="Orcid URL" src="https://img.shields.io/badge/Orcid-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=orcid&logoColor=%23A6CE39" height="27"></a>
+  <a href="https://www.researchgate.net/profile/Matheus-Farinaro-Vesco" style="text-decoration: none;"><img alt="Researchgate URL" src="https://img.shields.io/badge/ResearchGate-%232d2d2d?labelColor=2d2d2d&style=flat-square&logo=researchgate&logoColor=%2300CCBB" height="27"></a>
 </div>
